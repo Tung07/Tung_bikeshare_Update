@@ -142,7 +142,11 @@ def time_stats(df, city, month, day):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip."""
+    '''
+    Displays statistics on the most popular stations and trip.
+    :param df: Pandas DataFrame containing city data filtered by month and day
+    :return:
+    '''
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()

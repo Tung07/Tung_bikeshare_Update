@@ -80,32 +80,34 @@ The original files are much larger and messier, and you don't need to download t
 Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
-#1 Popular times of travel (i.e., occurs most often in the start time)
+#### 1 Popular times of travel (i.e., occurs most often in the start time)
 
-most common month
-most common day of week
-most common hour of day
-#2 Popular stations and trip
+    most common month
+    most common day of week
+    most common hour of day
+#### 2 Popular stations and trip
 
-most common start station
-most common end station
-most common trip from start to end (i.e., most frequent combination of start station and end station)
-#3 Trip duration
+    most common start station
+    most common end station
+    most common trip from start to end (i.e., most frequent combination of start station and end station)
+#### 3 Trip duration
 
-total travel time
-average travel time
-#4 User info
+    total travel time
+    average travel time
 
-counts of each user type
-counts of each gender (only available for NYC and Chicago)
-earliest, most recent, most common year of birth (only available for NYC and Chicago)
+#### 4 User info
+
+    counts of each user type
+    counts of each gender (only available for NYC and Chicago)
+    earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
 ### Files used
 
-chicago.csv
-
-new_york_city.csv
-
-washington.csv
+    chicago.csv
+    
+    new_york_city.csv
+    
+    washington.csv
 
 ### Credits
 Data and project are provided by Udacity 
